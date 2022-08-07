@@ -15,7 +15,7 @@ following plugins:
 
 * [yagpdb-cc-ext](https://github.com/SpecialEliteSNP/yagpdb-cc-ext) delivers syntax highlighting for YAGPDB CCs.<br/>
     It highlights functions, variables, features fold recognition as well as automatic indentation.<br/>
-    Unfortunately, it is as of now not maintained, so newer functions may not be highlighted.
+    **Unfortunately, it is as of now not maintained, so newer functions may not be highlighted.**
 
 * [gotemplate-syntax](https://marketplace.visualstudio.com/items?itemName=casualjim.gotemplate) is a great alternative
     bringing you some basic highlighting to VSCode, however it won't recognise YAGPDB's functions.
