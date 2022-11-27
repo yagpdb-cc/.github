@@ -25,6 +25,12 @@ following plugins:
     It is under constant development, with a plethora of features like code-suggestions, copy-to-clipboard, and
     snippets.
 
+### Web Browser
+
+If you prefer to edit your custom commands directly on the control panel,
+check out [this userscript](https://gitlab.com/prodigal.knight/yagpdb-custom-command-scripting-improvements/),
+which adds some improvements to the Web UI.
+
 ## Useful Links
 
 * YAGPDB [Support Server](https://discord.gg/4udtcA5)
