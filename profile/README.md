@@ -25,14 +25,16 @@ following plugins:
     It is under constant development, with a plethora of features like code-suggestions, copy-to-clipboard, and
     snippets.
 
-### Web Browser
+### Language Server Protocol
 
-If you prefer to edit your custom commands directly on the control panel,
-check out [this userscript](https://gitlab.com/prodigal.knight/yagpdb-custom-command-scripting-improvements/),
-which adds some improvements to the Web UI.
+* [yag-template-lsp](https://github.com/jo3-l/yag-template-lsp) is a language server for YAGPDB's custom command language.<br/>
+    It provides syntax highlighting, diagnostics, and code completion for your favourite LSP-compatible editor.
+
+    + For VSCode and VSCodium, extensions are provided on the respective marketplace.
+    + For other editors, you need to install from source and tell your editor about it. Refer to your editor's LSP documentation.
 
 ## Useful Links
 
-* YAGPDB [Support Server](https://discord.gg/4udtcA5)
-* YAGPDB [Documentation](https://docs.yagpdb.xyz)
-* YAGPDB [Learning Resources](https://learn.yagpdb.xyz)
+* YAGPDB [Support Server](https://help.yagpdb.xyz/discord)
+* YAGPDB [Documentation](https://help.yagpdb.xyz/docs/welcome/introduction)
+* YAGPDB [Learning Resources](https://help.yagpdb.xyz/learn/welcome/introduction)
